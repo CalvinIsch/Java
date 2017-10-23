@@ -1,0 +1,1 @@
+Run the OlympicRingViewer.java File in order to see the result of the three components.
